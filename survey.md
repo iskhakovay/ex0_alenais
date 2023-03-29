@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: purple
+Favorite food: hot pot
+Favorite musician/band: stray kids
+Favorite movie: mulan
+Requested grade in the course: 70+
